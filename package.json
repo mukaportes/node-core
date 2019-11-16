@@ -1,0 +1,26 @@
+{
+  "name": "node-core",
+  "version": "1.0.0",
+  "description": "NodeJS core modules study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukaportes/node-core.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "core",
+    "modules",
+    "study"
+  ],
+  "author": "Murilo Portescheller <mport.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukaportes/node-core/issues"
+  },
+  "homepage": "https://github.com/mukaportes/node-core#readme"
+}
